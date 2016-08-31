@@ -1,5 +1,0 @@
-http-test-1:
-  ports:
-    - "8888:80"
-  image: gitlab-dr-3201.nyc2.rhapsody.com:4567/techops/docker-repo:napster-http-test-v2
-  container_name: "http-test"
