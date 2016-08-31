@@ -11,3 +11,7 @@
       type: "string"
       default: "napster-http-test-v1" 
       required: true
+
+http-test-1:
+  scale: 1
+  retain_ip: true
