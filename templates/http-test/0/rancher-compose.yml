@@ -1,7 +1,8 @@
 .catalog:
-  name: "http-test-1"
-  version: "v0"
-  description: "to test adding catalog item"
+  name: http-test
+  version: 0
+  description: |
+    DEMO to test adding catalog item
   uuid: httpd-test-1
   questions:
     - variable: "VERSION"
