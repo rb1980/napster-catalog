@@ -8,5 +8,5 @@
       label: "image version"
       description: "Specify a version of the container to pull (default will pull latest stable version)."
       type: "string"
-      default: "latest" 
+      default: "napster-http-test-v1" 
       required: true
