@@ -1,15 +1,15 @@
 .catalog:
-  name: http-test
-  version: 0
+  name: "http-test"
+  version: "0"
   description: |
-    DEMO to test adding catalog item
-  uuid: httpd-test-1
+    "DEMO to test adding catalog item"
+  uuid: "httpd-test-1"
   questions:
     - variable: "VERSION"
       label: "image version"
       description: "Specify a version of the container to pull (default will pull latest stable version)."
       type: "string"
-      default: "napster-http-test-v1" 
+      default: "napster-http-test-v2" 
       required: true
 
 http-test-1:
