@@ -1,0 +1,5 @@
+name: http-test
+description: |  
+  sample apache hello world container
+version: 0  
+category: "DEMO" 
