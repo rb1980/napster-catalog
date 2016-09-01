@@ -1,0 +1,7 @@
+---
+name: http-test
+projectURL: https://gitlab-dr-3201.nyc2.rhapsody.com/techops/rancher-catalog
+description: |  
+  sample apache hello world container
+version: 0  
+category: "DEMO" 

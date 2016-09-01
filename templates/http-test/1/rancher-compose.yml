@@ -1,0 +1,12 @@
+.catalog:
+  name: "http-test-1"
+  version: "v1"
+  description: "to test adding catalog item"
+  uuid: httpd-test-1
+  questions:
+    - variable: "VERSION"
+      label: "image version"
+      description: "Specify a version of the container to pull (default will pull latest stable version)."
+      type: "string"
+      default: "latest" 
+      required: true
